@@ -1,0 +1,2 @@
+1 - Enter the height of the pyramid;
+2 - Values ​​other than 1 to 8 (0, 9, 15, -12, 100), as well as letters or words return a request for a valid height again;

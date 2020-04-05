@@ -8,6 +8,6 @@ Federico abss (2 February 2020), available at: https://github.com/Federico-abss/
 
 Goalfixx (26 January 2020), "Reddit Website", available at: https://www.reddit.com/r/cs50/comments/eu5if0/check50_incorrectly_marking_pset6_dna_spoiler/ (accessed on 31 March 2020).
 
-Reddit Website, https://reddit.com (accessed on 26 March 2020).
+Reddit Website, https://reddit.com (accessed on 31 March 2020).
 
-CS50.stackexchange Website, https://cs50.stackexchange.com (accessed on 26 March 2020).
+CS50.stackexchange Website, https://cs50.stackexchange.com (accessed on 31 March 2020).
